@@ -3,6 +3,6 @@ public class git {
 
     public git ()
     {
-        ert = 00;
+        ert = 0;
     }
 }
